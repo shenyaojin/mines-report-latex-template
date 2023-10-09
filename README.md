@@ -1,0 +1,1 @@
+Mines template for assignment or simple report. IEEE style (?).  One column.
